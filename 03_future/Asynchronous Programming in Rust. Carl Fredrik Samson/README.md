@@ -1,0 +1,1 @@
+https://rusting.substack.com/p/solid-rust
